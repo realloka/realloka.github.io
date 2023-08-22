@@ -1,4 +1,4 @@
-var nationFile = [
+var nationFile = {[
   {
     "code": "AF",
     "nation": "Afghanistan",
@@ -1700,4 +1700,4 @@ var nationFile = [
     "lng": 30,
     "lvl": 6
   }
-]
+]}
