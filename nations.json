@@ -1,4 +1,4 @@
-nationList = [
+var nationFile = [
   {
     "code": "AF",
     "nation": "Afghanistan",
